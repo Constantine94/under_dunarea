@@ -3,7 +3,7 @@
     },
     "editor-colors": {
         "BackgroundColor": "#0d0d0d",
-        "BracketMatching": "#9f865d",
+        "BracketMatching": "#00bf4040",
         "CodeFolding": "#224e65",
         "CurrentLine": "#2a2e32",
         "CurrentLineNumber": "#a5a6a8",
@@ -11,24 +11,24 @@
         "IndentationLine": "#3a3f44",
         "LineNumbers": "#7a7c7d",
         "MarkBookmark": "#0404bf",
-        "MarkBreakpointActive": "#8b0607",
+        "MarkBreakpointActive": "#6d333333",
         "MarkBreakpointDisabled": "#820683",
         "MarkBreakpointReached": "#6d6e07",
-        "MarkError": "#da4453",
+        "MarkError": "#6d333333",
         "MarkExecution": "#4d4e50",
         "MarkWarning": "#26a269",
-        "ModifiedLines": "#33d17a",
+        "ModifiedLines": "#00bf4040",
         "ReplaceHighlight": "#808021",
-        "SavedLines": "#1c8042",
-        "SearchHighlight": "#218058",
+        "SavedLines": "#00bf4040",
+        "SearchHighlight": "#00bf4040",
         "Separator": "#3f4347",
-        "SpellChecking": "#e01b24",
+        "SpellChecking": "#6d333333",
         "TabMarker": "#4d4d4d",
         "TemplateBackground": "#31363b",
         "TemplateFocusedPlaceholder": "#123723",
         "TemplatePlaceholder": "#123723",
-        "TemplateReadOnlyPlaceholder": "#4d1f24",
-        "TextSelection": "#2d5c76",
+        "TemplateReadOnlyPlaceholder": "#6d333333",
+        "TextSelection": "#b3333333",
         "WordWrapMarker": "#3a3f44"
     },
     "metadata": {
@@ -51,7 +51,7 @@
             "text-color": "#6a9370"
         },
         "BaseN": {
-            "selected-text-color": "#f67400",
+            "selected-text-color": "#b37d6c",
             "text-color": "#b37d6c"
         },
         "BuiltIn": {
@@ -93,8 +93,8 @@
             "text-color": "#a43340"
         },
         "Error": {
-            "selected-text-color": "#da4453",
-            "text-color": "#da4453",
+            "selected-text-color": "#b37d6c",
+            "text-color": "#b37d6c",
             "underline": true
         },
         "Extension": {
